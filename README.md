@@ -18,3 +18,32 @@ Does the current manufacturing data meet this design specification for all manuf
 2. Why?  Because of the effects of distribution
 
 ![graph](https://user-images.githubusercontent.com/115684964/218600633-bf10a38c-1e1e-4119-9de7-c9aacb7fc15b.png)
+
+## T-Tests on Suspension Coils
+![ttest](https://user-images.githubusercontent.com/115684964/218654547-9e119e7a-427c-4c4a-95f4-1fbd5f4c54ca.png)
+
+Interpretation.  
+Lot 1 p-value = 1 not statistically significant from the mean
+Lot 2 p-value = 0.6072 not statistically significant  from the mean
+Lot 3 p-value = 0.04168 statistically different from the mean
+Mean [1] 1498.78
+
+
+## Study Design: MechaCar vs Competition
+Comparing MechaCar and Ford.
+HP H0 - no statistical difference betweeen MechaCar and Ford.
+Metrics tested: Horse power
+Null hypothesis: There's no significant difference in horsepower between MechaCar and Ford or others
+Testing the hypothesis: TTest, regression, comparison, or correlation
+What data is needed: We will need data like our MechaCar data
+
+
+
+
+
+
+
+
+
+
+
