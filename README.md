@@ -1,5 +1,7 @@
-# Module_16_Statistics
+# Statistics (16)
 ## Linear Regression to Predict MPG
+
+# Purpose:  Use the Extract, Transform, and Load (ETL) model to visualize data.  And learn several statistical tests in the R Language
 
 ![Screenshot 2023-02-13 155444](https://user-images.githubusercontent.com/115684964/218593001-ad46103e-bedf-4750-9ca4-305e0b93d834.png)
 
